@@ -16,4 +16,4 @@
 - Gestão de Aluguéis (com status)
 
 ## Uso de IA
-Este projeto utilizou GPT-5 Mini para suporte na implementação de código.
+Este projeto utilizou GPT-5, e também DeepSeek para suporte na implementação de código.
